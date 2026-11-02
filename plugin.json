@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ad-organic-traffic",
+  "description": "Query organic traffic, ads, content topics, products, and KOL lane overlap via Metabase",
+  "version": "1.0.0",
+  "author": {
+    "name": "Kalowave"
+  }
+}
