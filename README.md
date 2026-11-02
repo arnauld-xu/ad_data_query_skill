@@ -4,7 +4,7 @@ Cursor 插件：用 Metabase 查自然流量、广告流量、内容主题、关
 
 别人安装时使用这个仓库地址：
 
-https://github.com/arnauld-xu/ad_data_query
+https://github.com/arnauld-xu/ad_data_query_skill
 
 在 Cursor 里打开 Customize，选择 From GitHub Repository，粘贴上面的地址，然后安装 `ad-organic-traffic`。
 
