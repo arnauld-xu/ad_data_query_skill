@@ -1,7 +1,0 @@
-{
-  "mcpServers": {
-    "metabase": {
-      "url": "https://bi.kalowave.com/api/metabase-mcp"
-    }
-  }
-}
