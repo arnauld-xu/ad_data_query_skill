@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "ad-organic-traffic",
-      "source": "plugins/ad-organic-traffic",
+      "source": ".",
       "description": "用 Metabase 查自然流量、广告流量、内容主题和赛道匹配"
     }
   ]
