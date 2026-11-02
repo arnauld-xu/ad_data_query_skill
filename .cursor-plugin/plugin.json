@@ -1,0 +1,8 @@
+{
+  "name": "ad-organic-traffic",
+  "description": "用 Metabase 查自然流量、广告流量、内容主题和赛道匹配",
+  "version": "1.0.0",
+  "author": {
+    "name": "Kalowave"
+  }
+}
