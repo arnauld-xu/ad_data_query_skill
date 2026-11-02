@@ -1,0 +1,16 @@
+{
+  "name": "ad-organic-traffic",
+  "owner": {
+    "name": "Kalowave"
+  },
+  "metadata": {
+    "description": "自然流量与广告流量查询"
+  },
+  "plugins": [
+    {
+      "name": "ad-organic-traffic",
+      "source": "plugins/ad-organic-traffic",
+      "description": "用 Metabase 查自然流量、广告流量、内容主题和赛道匹配"
+    }
+  ]
+}
